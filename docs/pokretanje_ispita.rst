@@ -10,7 +10,7 @@ Uvodna stranica *Dobrodošli na ispit* sadrži: naziv ispita, datum, dvoranu/lok
 - Kliknite naredbu *Kreni* kako biste počeli s rješavanjem ispita
 
 
-Osnovi ekran pitanja
+Osnovni ekran pitanja
 ^^^^^^^^^^^^^^^^^^^^
 
 Osnovni ekran pitanja sadrži:
