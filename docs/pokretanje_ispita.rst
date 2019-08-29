@@ -104,7 +104,7 @@ Kada ste odgovorili na sva postavljena pitanja kliknite na naredbu *Završi ispi
 Rezultati polaganja
 ^^^^^^^^^^^^^^^^^^^^^^
 
-Po završetku ispita prikazuje se ekran rezultata, postotak uspješnosti za ukupni ispit i oznaka prolaz/pad te postotak uspješnosti po grupama pitanja. 
+Po završetku ispita prikazuje se ekran rezultata, postotak uspješnosti za ukupni ispit i oznaka prolaz/pad te postotak uspješnosti po grupama pitanja. Npr. ispit zahtijeva prolaznost od 70%, vi imate 74% i pad. U tom slučaju postoji mogućnost da određena grupa zahtijeva prolaznost od 40%, a vi imate npr. 30% prolaznosti u toj grupi, pri čemu vam je rezultat ispita *Pad*.
 
 Ukupno ispit
 ************
