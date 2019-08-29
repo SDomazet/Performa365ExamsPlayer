@@ -34,3 +34,10 @@ Dobro došli na stranicu Performa 365 - provedba ispita
    :caption: POKRETANJE ISPITA
    
    pokretanje_ispita
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: ZAVRŠETAK ISPITA
+   
+   zavrsetak_ispita
